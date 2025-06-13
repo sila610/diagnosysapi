@@ -1,0 +1,38 @@
+[
+  {
+    "id": "user-1749737217266",
+    "nama": "Alya",
+    "email": "alya@xxx.com",
+    "password": "$2b$08$/HtUVKnY0AXvhf6drbvY1.jBqu2/juB3eUWR6esb0IKhr0ubIMVsm"
+  },
+  {
+    "id": "user-1749737826376",
+    "nama": "Putri",
+    "email": "putri@xxx.com",
+    "password": "$2b$08$7zTQfH60bLcToKLp9ES8BOqS..jAz4Iio/6rdHxbmIAELDjiXcMYG"
+  },
+  {
+    "id": "user-1749786224925",
+    "nama": "keyy",
+    "email": "key22@gmail.com",
+    "password": "$2b$08$LLbbbImhgZxwQZt2AflSKupOCmqS/AzF1UptfukEewDqhtknY1ZQe"
+  },
+  {
+    "id": "user-1749786598047",
+    "nama": "jajaj",
+    "email": "jajay22@gmail.com",
+    "password": "$2b$08$pyaLHDGeD4k4cKZrf5CC1OPDpSKKYN1dxDRdQ2i3OqJxjHAW1XuBC"
+  },
+  {
+    "id": "user-1749788984322",
+    "nama": "yaya",
+    "email": "jaja1@gmail.com",
+    "password": "$2b$08$G/hA7G8KUeCNbm5oQBiC1.MG54XR9qqX2B3XzST8VMJpHbbU6hRqi"
+  },
+  {
+    "id": "user-1749789630844",
+    "nama": "yaya ",
+    "email": "yaya23@gmail.com",
+    "password": "$2b$08$XyFtbL3AqV06aLOUMEra0O4pX6EyCRghTaVTSRWjxEzSuWqly.SjG"
+  }
+]

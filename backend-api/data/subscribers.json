@@ -1,0 +1,15 @@
+[
+  {
+    "userId": "user-1749737217266",
+    "createdAt": "2025-06-12T14:30:49.718Z"
+  },
+  {
+    "endpoint": "https://fcm.googleapis.com/fcm/send/dqNXGsKbfoU:APA91bE__S4nJf9TVM3BqFmmxlL77kZ-8YHJcbVaMb0STNIG0cI9aYN3BCzvU7ESo8zNnWMUfhtfbB92WpQDoViTnw6-sNjDjOb4R4fMf9X5ujaMl6UCsx5H1Yg6-88tWUgAd7E4x24D",
+    "keys": {
+      "p256dh": "BDxb1VlUrULor-4eD8LhsjC-cGO8lJ6XUNnXjMaRrUOUDnUyeWQEUHJswmBTUUhfClqcDoI4IVxm4QYcQh1dY44",
+      "auth": "9yIXd5trVSinTBAhFO7bKA"
+    },
+    "userId": "user-1749789630844",
+    "createdAt": "2025-06-13T04:40:48.183Z"
+  }
+]
